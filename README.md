@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <h1 align="center">Hello There 👋, I'm Akshat Mishra</h1>
-<h3 align="center">Living with Passion</h3>
+<h3 align="center">Living with Passion.</h3>
 
 - 🌱 I’m currently learning **Python,Javascript**
 
