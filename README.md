@@ -14,12 +14,12 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<h1 align="center">Hi 👋, I'm Akshat Mishra</h1>
+<h1 align="center">Hello There 👋, I'm Akshat Mishra</h1>
 <h3 align="center">Living with Passion!</h3>
 
 - 🌱 I’m currently learning **Python,Javascript**
 
-- 📫 How to reach me **akshatdmishra2005@gmail.com**
+- 📫 Reach me at **akshatdmishra2005@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
