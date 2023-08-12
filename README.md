@@ -21,8 +21,11 @@ Here are some ideas to get you started:
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://www.hackerrank.com/akshatdmishra201?hr_r=1" target="blank"><img src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white" alt="@akshatdmishra201" height="30" width="80" /></a>
+ 
+ <a href="https://www.linkedin.com/in/akshat-mishra-cpp-python-aids" target="blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Akshat Mishra" height="30" width="80"></a>
  <a href="https://www.quora.com/profile/Akshat-Mishra-657" target="blank"><img src="https://img.shields.io/badge/Quora-%23B92B27.svg?&style=for-the-badge&logo=Quora&logoColor=white" alt="Akshat Mishra" height="30" width="80"></a>
+<a href="https://www.hackerrank.com/akshatdmishra201?hr_r=1" target="blank"><img src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white" alt="@akshatdmishra201" height="30" width="80" /></a>
+
 </p>
 
 <h3 align="left">IDE:</h3>
