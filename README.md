@@ -41,11 +41,11 @@ $\large\color{#D97B72}{\text{Game Engines}}$
 ```python
 dev.github_stats()
 ```
-[![Naereen's github stats](https://github-readme-stats.vercel.app/api?username=Adm-2005&theme=blue-green)](https://github.com/anuraghazra/github-readme-stats)
+![Akshat's GitHub stats](https://github-readme-stats.vercel.app/api?username=Adm-2005&show_icons=true&theme=midnight-purple)
 
-[![Naereen's top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Adm-2005&theme=blue-green)](https://github.com/anuraghazra/github-readme-stats)
+![Akshat's top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Adm-2005&theme=midnight-purple)
 
-[![Naereen's github streak](https://github-readme-streak-stats.herokuapp.com/?user=Adm-2005&theme=blue-green)](https://github.com/DenverCoder1/github-readme-streak-stats)
+![Akshat's github streak](https://github-readme-streak-stats.herokuapp.com/?user=Adm-2005&theme=midnight-purple)
 
 ```python
 dev.social_media()
