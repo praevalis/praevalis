@@ -45,7 +45,7 @@ dev.github_stats()
 
 ![Akshat's top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Adm-2005&theme=midnight-purple)
 
-![Akshat's github streak](https://github-readme-streak-stats.herokuapp.com/?user=Adm-2005&theme=midnight-purple)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Adm-2005&theme=midnight-purple)](https://git.io/streak-stats)
 
 ```python
 dev.social_media()
