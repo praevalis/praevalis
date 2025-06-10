@@ -66,11 +66,11 @@ dev.display_skills()
 dev.github_stats()
 ```
 
-![Akshat's GitHub stats](https://github-readme-stats.vercel.app/api?username=Adm-2005&show_icons=true&theme=midnight-purple)
+![Akshat's GitHub stats](https://github-readme-stats.vercel.app/api?username=praevalis&show_icons=true&theme=midnight-purple)
 
-![Akshat's top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Adm-2005&theme=midnight-purple)
+![Akshat's top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=praevalis&theme=midnight-purple)
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Adm-2005&theme=midnight-purple)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=praevalis&theme=midnight-purple)](https://git.io/streak-stats)
 
 ```python
 dev.social_media()
