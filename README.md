@@ -66,11 +66,11 @@ dev.display_skills()
 dev.github_stats()
 ```
 
-![Akshat's GitHub stats](https://github-readme-stats.vercel.app/api?username=praevalis&show_icons=true&theme=midnight-purple)
+![Praevalis' GitHub Stats](https://github-readme-stats.vercel.app/api?username=praevalis&show_icons=true&theme=midnight-purple&hide_border=true)
 
-![Akshat's top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=praevalis&theme=midnight-purple)
+![Praevalis' Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=praevalis&theme=midnight-purple&hide_border=true&hide=html,css&layout=compact)
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=praevalis&theme=midnight-purple)](https://git.io/streak-stats)
+![Praevalis' GitHub Streak](https://github-readme-streak-stats-flax-eta.vercel.app?user=praevalis&theme=midnight-purple&hide_border=true)
 
 ```python
 dev.social_media()
