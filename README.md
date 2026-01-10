@@ -70,7 +70,7 @@ dev.github_stats()
 
 ![Praevalis' Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=praevalis&theme=midnight-purple&hide_border=true&hide=html,css&layout=compact)
 
-![Praevalis' GitHub Streak](https://github-readme-streak-stats-flax-eta.vercel.app?user=praevalis&theme=midnight-purple&hide_border=true)
+![Praevalis' GitHub Streak](https://github-readme-streak-stats-flax-eta.vercel.app/?user=praevalis&theme=midnight-purple&hide_border=true)
 
 ```python
 dev.social_media()
