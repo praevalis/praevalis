@@ -66,11 +66,11 @@ dev.display_skills()
 dev.github_stats()
 ```
 
-![Praevalis' GitHub Stats](https://github-readme-stats.vercel.app/api?username=praevalis&show_icons=true&theme=midnight-purple&hide_border=true)
+![Praevalis' GitHub Stats](https://github-readme-stats-gray-gamma-54.vercel.app/api?username=praevalis&show_icons=true&theme=midnight-purple&hide_border=true)
 
-![Praevalis' Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=praevalis&theme=midnight-purple&hide_border=true&hide=html,css&layout=compact)
+![Praevalis' Top Languages](https://github-readme-stats-gray-gamma-54.vercel.app/api/top-langs/?username=praevalis&theme=midnight-purple&hide_border=true&hide=html,css&layout=compact)
 
-![Praevalis' GitHub Streak](https://github-readme-streak-stats-flax-eta.vercel.app/?user=praevalis&theme=midnight-purple&hide_border=true)
+![Praevalis' GitHub Streak](https://github-readme-streak-stats-iota-blush.vercel.app/?user=praevalis&theme=midnight-purple&hide_border=true)
 
 ```python
 dev.social_media()
