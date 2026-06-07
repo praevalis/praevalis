@@ -9,7 +9,7 @@ dev = Developer("Akshat", "India")
 <span style="color:#D2A8DC"><strong>Name:</strong></span> <span style="color:white">Akshat Mishra</span> <br>
 <span style="color:#D97B72"><strong>Location:</strong></span> <span style="color:white">India</span> <br>
 <span style="color:#D2A8DC"><strong>Email:</strong></span> akshatdmishra2005@gmail.com <br>
-<span style="color:#D97B72"><strong>Website:</strong></span> akshatdmishra.com <br>
+<span style="color:#D97B72"><strong>Website:</strong></span> https://akshatdmishra.com <br>
 
 
 ```python 
